@@ -1,0 +1,6 @@
+---
+Name: quaff-html-model-relationships
+---
+Modular\Model:
+  extensions:
+    - Quaff\HTML\Relationships\HasElement
